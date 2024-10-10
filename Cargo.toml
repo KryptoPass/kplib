@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+openssl = "0.10.66"
+semver = "1.0.23"
+thiserror = "1.0.64"
